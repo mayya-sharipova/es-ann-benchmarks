@@ -10,8 +10,12 @@
         "type": "dense_vector_lsh",
         "dims": 192,
         "k" : 20,
-        "w" : 4,
+        "w" : 4.32,
         "l" : 8
+      },
+      "my_dense_vector": {
+        "type": "dense_vector",
+        "dims": 192
       }
     }
   }
